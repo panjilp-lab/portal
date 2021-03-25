@@ -1,1 +1,1 @@
-# portal
+# membuat tampilan frontend layaknya portal berita
