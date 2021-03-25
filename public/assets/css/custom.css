@@ -1,0 +1,29 @@
+.main-content {
+  min-height: calc(100vh - 2rem) !important;
+}
+
+.w-right {
+  width: 800px;
+}
+
+.b-grd {
+  background: #f9f9f9;
+  background: linear-gradient(180deg, #f9f9f9 19%, #dbb2b2 95%);
+}
+
+.w-ft {
+  width: 270px;
+}
+
+.rat {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+a {
+  font-size: 0.88rem;
+}
+
+a {
+  font-size: 0.88rem;
+}
